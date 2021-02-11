@@ -10,3 +10,5 @@ In this task we want you to mark up a slightly more complex video player, with m
 6. Make the video muted by default.
 7. Display the text tracks contained in the media folder, in a file called subtitles_en.vtt, when the video is playing. You must explicitly set the type as subtitles, and the subtitle language to English.
 8. Make sure the readers can identify the subtitle language when they use the default controls.
+
+live web: https://gitthuma.github.io/multimedia_and_embeding_2/
